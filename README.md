@@ -144,5 +144,6 @@ Contributions are welcome! To suggest improvements:
 
     - Add usage examples for different scenarios
 
+
 # License
 Distributed under the MIT License. See [LICENSE](./LICENSE) for more information.
